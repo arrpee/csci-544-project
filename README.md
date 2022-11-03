@@ -13,3 +13,5 @@ Unzip them in the 'data' folder in this repository.
 ## Google
 URL: https://github.com/google-research-datasets/coarse-discourse
 
+## Reddit
+URL : https://files.pushshift.io/reddit/comments/daily/
